@@ -12,4 +12,4 @@
 
 **Step 6: Let's check that higher educated people have better pay in general**
 
-**Step 7: Find the mean of income column(income is the column with index 7) of 'high' array and store it in 'avg_pay_high'. Do the same for 'low' array and store it's mean in 'avg_pay_low'.**
+**Step 7: Find the mean of income column(income is the column with index 7) of 'high' array and store it in 'avg_pay_high'.
